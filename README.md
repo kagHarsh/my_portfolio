@@ -3,6 +3,12 @@
 
 This is a responsive portfolio site created with ReactJS and plain CSS that implements Swiper for sliding components and EmailJS for contact services.
 
+
+https://github.com/kagHarsh/my_portfolio/assets/124779369/2fb399b3-8688-4644-8ccd-c6799bda4c27
+
+
+
+
 # Project Features:
   - Responsive Layout
   - Fixed Navigation
